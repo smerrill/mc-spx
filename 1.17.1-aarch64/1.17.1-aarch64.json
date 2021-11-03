@@ -577,11 +577,11 @@
                         "size": 124776,
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-linux.jar"
                     },
-                    "natives-macos": { // FIXME
-                        "path": "org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-macos.jar",
-                        "sha1": "bbfb75693bdb714c0c69c2c9f9be73d259b43b62",
-                        "size": 48462,
-                        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-macos.jar"
+                    "natives-macos": {
+                        "path": "org/lwjgl/lwjgl/3.3.0-SNAPSHOT/lwjgl-3.3.0-SNAPSHOT-natives-macos.jar",
+                        "sha1": "aafd3b0c3d774c8d6fcc6fad57171848c80e1177",
+                        "size": 40802,
+                        "url": "https://oss.sonatype.org/service/local/repositories/snapshots/content/org/lwjgl/lwjgl/3.3.0-SNAPSHOT/lwjgl-3.3.0-20210325.222416-6-natives-macos-arm64.jar"
                     },
                     "natives-windows": {
                         "path": "org/lwjgl/lwjgl/3.3.0-SNAPSHOT/lwjgl-3.3.0-SNAPSHOT-natives-windows.jar",
@@ -618,11 +618,11 @@
                         "size": 156173,
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-linux.jar"
                     },
-                    "natives-macos": { // FIXME
-                        "path": "org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-macos.jar",
-                        "sha1": "805f5a10465375ba034b27b72331912fd2846690",
-                        "size": 117127,
-                        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-macos.jar"
+                    "natives-macos": {
+                        "path": "org/lwjgl/lwjgl-jemalloc/3.3.0-SNAPSHOT/lwjgl-jemalloc-3.3.0-SNAPSHOT-natives-macos.jar",
+                        "sha1": "d3801c1e6ef083c0b8a6bc7c2a61ec6a5d10921c",
+                        "size": 102299,
+                        "url": "https://oss.sonatype.org/service/local/repositories/snapshots/content/org/lwjgl/lwjgl-jemalloc/3.3.0-SNAPSHOT/lwjgl-jemalloc-3.3.0-20211102.013639-14-natives-macos-arm64.jar"
                     },
                     "natives-windows": {
                         "path": "org/lwjgl/lwjgl-jemalloc/3.3.0-SNAPSHOT/lwjgl-jemalloc-3.3.0-SNAPSHOT-natives-windows.jar",
@@ -659,11 +659,11 @@
                         "size": 590997,
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-linux.jar"
                     },
-                    "natives-macos": { // FIXME
-                        "path": "org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-macos.jar",
-                        "sha1": "a97b6345d5a9ddf889e262bd7ad8eed43b1bb063",
-                        "size": 528006,
-                        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-macos.jar"
+                    "natives-macos": {
+                        "path": "org/lwjgl/lwjgl-openal/3.3.0-SNAPSHOT/lwjgl-openal-3.3.0-SNAPSHOT-natives-macos.jar",
+                        "sha1": "5c0d9d170a468a19ee1d420d89130dcf9df595cf",
+                        "size": 346137,
+                        "url": "https://oss.sonatype.org/service/local/repositories/snapshots/content/org/lwjgl/lwjgl-openal/3.3.0-SNAPSHOT/lwjgl-openal-3.3.0-20211020.190020-13-natives-macos-arm64.jar"
                     },
                     "natives-windows": {
                         "path": "org/lwjgl/lwjgl-openal/3.3.0-SNAPSHOT/lwjgl-openal-3.3.0-SNAPSHOT-natives-windows.jar",
@@ -700,11 +700,11 @@
                         "size": 77392,
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-linux.jar"
                     },
-                    "natives-macos": { // FIXME
-                        "path": "org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-macos.jar",
-                        "sha1": "cf4f43e69ee70d8ebfbb6ba93dec9016339e4fdc",
-                        "size": 38989,
-                        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-macos.jar"
+                    "natives-macos": {
+                        "path": "org/lwjgl/lwjgl-opengl/3.3.0-SNAPSHOT/lwjgl-opengl-3.3.0-SNAPSHOT-natives-macos.jar",
+                        "sha1": "83b300f86f7cd6b930f5db76e71b0ecc68c8e9e9",
+                        "size": 41535,
+                        "url": "https://oss.sonatype.org/service/local/repositories/snapshots/content/org/lwjgl/lwjgl-opengl/3.3.0-SNAPSHOT/lwjgl-opengl-3.3.0-20211020.190020-13-natives-macos-arm64.jar"
                     },
                     "natives-windows": {
                         "path": "org/lwjgl/lwjgl-opengl/3.3.0-SNAPSHOT/lwjgl-opengl-3.3.0-SNAPSHOT-natives-windows.jar",
@@ -747,11 +747,11 @@
                         "size": 159198,
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-linux.jar"
                     },
-                    "natives-macos": { // FIXME
-                        "path": "org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-macos.jar",
-                        "sha1": "98f745038d17ac3192fcd01dc44126b03ec1570d",
-                        "size": 67311,
-                        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-macos.jar"
+                    "natives-macos": {
+                        "path": "org/lwjgl/lwjgl-glfw/3.3.0-SNAPSHOT/lwjgl-glfw-3.3.0-SNAPSHOT-natives-macos.jar",
+                        "sha1": "80fc4993e128a0b42ee26401458e6cad0fcfd8b5",
+                        "size": 64166,
+                        "url": "https://oss.sonatype.org/service/local/repositories/snapshots/content/org/lwjgl/lwjgl-glfw/3.3.0-SNAPSHOT/lwjgl-glfw-3.3.0-20211019.130244-11-natives-macos-arm64.jar"
                     },
                     "natives-windows": {
                         "path": "org/lwjgl/lwjgl-glfw/3.3.0-SNAPSHOT/lwjgl-glfw-3.3.0-SNAPSHOT-natives-windows.jar",
@@ -794,11 +794,11 @@
                         "size": 38804,
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-linux.jar"
                     },
-                    "natives-macos": { // FIXME
-                        "path": "org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-macos.jar",
-                        "sha1": "46d0798228b8a28e857a2a0f02310fd6ba2a4eab",
-                        "size": 42136,
-                        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-macos.jar"
+                    "natives-macos": {
+                        "path": "org/lwjgl/lwjgl-tinyfd/3.3.0-SNAPSHOT/lwjgl-tinyfd-3.3.0-SNAPSHOT-natives-macos.jar",
+                        "sha1": "2a27f19357bdaeb7149b8345669486f6205271e5",
+                        "size": 40827,
+                        "url": "https://oss.sonatype.org/service/local/repositories/snapshots/content/org/lwjgl/lwjgl-tinyfd/3.3.0-SNAPSHOT/lwjgl-tinyfd-3.3.0-20210916.131616-9-natives-macos-arm64.jar"
                     },
                     "natives-windows": {
                         "path": "org/lwjgl/lwjgl-tinyfd/3.3.0-SNAPSHOT/lwjgl-tinyfd-3.3.0-SNAPSHOT-natives-windows.jar",
@@ -841,11 +841,11 @@
                         "size": 203476,
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-linux.jar"
                     },
-                    "natives-macos": { // FIXME
-                        "path": "org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-macos.jar",
-                        "sha1": "ee059b129b09fdecbd8595273926ae930bf5a5d7",
-                        "size": 196796,
-                        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-macos.jar"
+                    "natives-macos": {
+                        "path": "org/lwjgl/lwjgl-stb/3.3.0-SNAPSHOT/lwjgl-stb-3.3.0-SNAPSHOT-natives-macos.jar",
+                        "sha1": "a04bad80060ca7b7282b4603210caeeb6f73a5d1",
+                        "size": 172849,
+                        "url": "https://oss.sonatype.org/service/local/repositories/snapshots/content/org/lwjgl/lwjgl-stb/3.3.0-SNAPSHOT/lwjgl-stb-3.3.0-20210902.205442-7-natives-macos-arm64.jar"
                     },
                     "natives-windows": {
                         "path": "org/lwjgl/lwjgl-stb/3.3.0-SNAPSHOT/lwjgl-stb-3.3.0-SNAPSHOT-natives-windows.jar",
